@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div className="flex flex-col items-center min-h-screen bg-gradient-to-b from-blue-200 to-white px-4 py-10 text-center">
+      <div className="flex flex-col items-center min-h-screen bg-gradient-to-b from-blue-50 to-white px-4 py-10 text-center">
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
           👋 Welcome to My Portfolio
         </h1>
@@ -32,7 +32,7 @@ function App() {
               This platform is designed for teams and organizations to manage multiple projects, track task statuses, generate reports, and streamline communication.
             </p>
             <a
-              href="https://pms-frontend-topaz-one.vercel.app"
+              href="https://pms-frontend-lovat.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-6 inline-block bg-blue-600 hover:bg-blue-800 text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300"
@@ -42,7 +42,7 @@ function App() {
           </div>
 
 
-          <div className="rounded-xl p-6 bg-blue-100 mt-10 max-w-4xl mx-auto shadow-lg border border-blue-200">
+          <div className="rounded-xl p-6  mt-10 max-w-4xl mx-auto shadow-lg border border-blue-200">
             <h2 className="text-2xl md:text-3xl font-bold text-blue-700 mb-4">🧩 Human Capital Management System (HCM)</h2>
 
             <p className="text-gray-800 text-base md:text-lg leading-relaxed">
