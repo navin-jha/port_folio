@@ -32,7 +32,7 @@ function App() {
               This platform is designed for teams and organizations to manage multiple projects, track task statuses, generate reports, and streamline communication.
             </p>
             <a
-              href="https://pms-frontend-lovat.vercel.app"
+              href="https://pms-frontend-2k3prelwm-navin-jhas-projects.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-6 inline-block bg-blue-600 hover:bg-blue-800 text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300"
